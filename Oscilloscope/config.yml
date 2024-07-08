@@ -1,0 +1,17 @@
+ChannelA:
+  # The range is set to 7 which corresponds to +/- 2 V ()
+  Range: 7
+  Coupling: 1 # 0= AC, 1 = DC
+
+ChannelB:
+  # The range is set to 7 which corresponds to +/- 2 V (refer to the manual for the correct value)
+  Range: 7
+  Coupling: 1 # 0= AC, 1 = DC
+
+Extra:
+  # The number of samples to be taken before the trigger event
+  pretriggersamples: 1000
+  # The number of samples to be taken after the trigger event
+  posttriggersamples: 1000
+  # The timebase is set to 8 which corresponds to 1 ms (refer to the manual for the correct value)
+  timebase: 8
