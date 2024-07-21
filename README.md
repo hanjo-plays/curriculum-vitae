@@ -1,7 +1,7 @@
 # curriculum-vitae
 Johan's projects and assignments as parrt of the cv
 
-# Oscilloscope gui
+# Oscilloscope driver and gui
 
 This Python program creates a graphical user interface (GUI) for displaying real-time data from a PicoScope oscilloscope. The application is built using PyQt5 for the GUI components and matplotlib for plotting the data. The PicoScope device is interfaced using the PicoSDK API, which is accessed through the ctypes library to call functions from the PicoScope's shared library.
 
