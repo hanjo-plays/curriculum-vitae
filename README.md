@@ -1,5 +1,5 @@
 # curriculum-vitae
-Johan's projects and assignments as parrt of the cv
+Johan's projects and assignments as part of his cv
 
 # Oscilloscope driver and gui
 
