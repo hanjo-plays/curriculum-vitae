@@ -23,7 +23,9 @@ This project, in conjunction with the completion of the book "Python for the Lab
 
 
 Initial gui without any input in channels:
+
 ![Screenshot 2024-06-23 131903](https://github.com/hanjo-plays/curriculum-vitae/assets/45671158/f3b4c992-0d0c-489b-9f37-d210f466e704)
 
 Gui in action with input:
+
 ![Screenshot 2024-06-28 132906](https://github.com/hanjo-plays/curriculum-vitae/assets/45671158/e18b2f2a-46f9-4a30-9049-6af26d6a1377)
